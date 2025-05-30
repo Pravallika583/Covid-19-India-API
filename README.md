@@ -5,14 +5,11 @@
 - ExpressJS
 - SQLite
 - REST APIs
-- JWT
 
 # Key Features
 
 - CRUD Operations
-- Authentication
 - APIs
-- Middleware
 
 # Tables
 **State Table**

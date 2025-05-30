@@ -1,5 +1,20 @@
-# Covid-19 India
+# GET STARTED
 
+# Technologies Used
+- NodeJS
+- ExpressJS
+- SQLite
+- REST APIs
+- JWT
+
+# Key Features
+
+- CRUD Operations
+- Authentication
+- APIs
+- Middleware
+
+# Tables
 **State Table**
 
 | Columns    | Type    |
@@ -210,3 +225,5 @@ Returns an object containing the state name of a district based on the district 
 <br/>
 
 Use `npm install` to install the packages.
+
+Use 'npm start' to run
